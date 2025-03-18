@@ -14,6 +14,11 @@ public class DemoApplication {
 			"Gabriel",
 
 		};
+		for (String nombre : nombres) {
+			System.out.println(nombre);
+		}
+
+
 
 	}
 
